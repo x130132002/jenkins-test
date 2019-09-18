@@ -1,6 +1,6 @@
 module.exports = {
 
-  title: 'Vue Admin Template',
+  title: 'Admin',
 
   /**
    * @type {boolean} true | false
